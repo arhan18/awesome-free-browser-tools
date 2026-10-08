@@ -44,6 +44,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
 | [ToolBox Image](https://toolboximage.com) | 8 browser-based image tools — compress, convert, resize, crop, rotate, watermark, passport photos, metadata viewer. Zero uploads, no sign-up. | [toolboximage.com](https://toolboximage.com) |
+| **SnapShrink** | Free in-browser image compressor — batch compression, exact-KB targeting, HEIC/WebP/AVIF conversion, EXIF stripping. Zero uploads, no signup. | [getsnapshrink.com](https://getsnapshrink.com) |
 
 ## Video & Audio Tools
 
